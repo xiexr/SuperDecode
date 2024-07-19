@@ -1,5 +1,5 @@
 # SuperDecode
-An integrated toolkit for mutation analysis. SuperDecode provides three useful modules, including DSDecodeML, HiDecode, and LaDecode, each tailored to automatically decode mutations from Sanger, high-throughput short-read, and long-read sequencing data of target-site amplicons, respectively. SuperDecode is a stand-alone software package that can be easily used in different computer systems.
+An integrated toolkit for mutation analysis. SuperDecode provides three useful modules, including DSDecodeMS, HiDecode, and LaDecode, each tailored to automatically decode mutations from Sanger, high-throughput short-read, and long-read sequencing data of target-site amplicons, respectively. SuperDecode is a stand-alone software package that can be easily used in different computer systems.
 ## How to obtain the soft package?
 We provide soft versions for Windows, macOS, and Linux. You can download the package based on your computer system.
 ### Windows
@@ -13,3 +13,9 @@ Unzip the binary file to your local disk. Please check that no space contained i
 To use it, click the "SuperDecode.exe" in the directory to start the program.
 ### Linux
 
+## How to use SuperDecode to analyze mutations?
+SuperDecode provides three modules: DSDecodeMS, HiDecode, and LaDecode. Each module has distinct advantages.
+DSDecodeMS: decoding mutations from Sanger sequence chromatograms.
+HiDecode: high-throughput mutation analysis from NGS data of pooled amplicons.
+LaDecode: long and accurate mutation analysis from long-read sequencing (TGS) data of pooled long-amplicons.
+We provide detailed expermental procedures and package usages for each module.
