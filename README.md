@@ -13,7 +13,7 @@ Unzip the binary file to your local disk. Please check that no space contained i
 To use it, click the "SuperDecode.exe" in the directory to start the program.
 ### Linux
 We provide the Linux version (command line) for you.  
-You can download the Linux excutable files from the latest release (superdecode_linux.tar.gz). Or, you can download it via Cowtransfer (link:#########, code:###).  
+You can download the Linux excutable files from the latest release ([superdecode_linux.tar.gz](https://github.com/xiexr/SuperDecode/releases/download/linux.v1.0/superdecode_linux.tar.gz)). Or, you can download it via Cowtransfer (link:#########, code:###).  
 Unzip the tar.gz file to your local disk (using command: tar -zxf superdecode_linux.tar.gz). Ensure no space in the path.  
 An example script is provided in the directory for you to run the test example data of each tool.
 
