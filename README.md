@@ -22,7 +22,7 @@ SuperDecode provides three modules: DSDecodeMS, HiDecode, and LaDecode. Each mod
 DSDecodeMS: decoding mutations from Sanger sequence chromatograms.  
 HiDecode: high-throughput mutation analysis from NGS data of pooled amplicons.  
 LaDecode: long and accurate mutation analysis from long-read sequencing (TGS) data of pooled long-amplicons.  
-We provide detailed expermental procedures and package usages for each module.
+We provide detailed expermental procedures and package usages for each module.  
 Please refer to the "SuperDecode_document.pdf".  
 
 ## How to contact us?
