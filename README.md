@@ -23,7 +23,7 @@ DSDecodeMS: decoding mutations from Sanger sequence chromatograms.
 HiDecode: high-throughput mutation analysis from NGS data of pooled amplicons.  
 LaDecode: long and accurate mutation analysis from long-read sequencing (TGS) data of pooled long-amplicons.  
 We provide detailed expermental procedures and package usages for each module.  
-Please refer to the "SuperDecode_document.pdf".  
+Please refer to the "SuperDecode_document.pdf" (in English and Chinese).  
 
 ## How to contact us?
 You can contact us by E-mail (xiexianrong@scau.edu.cn).  
