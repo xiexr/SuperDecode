@@ -18,7 +18,7 @@ Unzip the tar.gz file to your local disk (using command: tar -zxf superdecode_li
 An example script is provided in the directory for you to run the test example data of each tool.
 #### Alternatively, you can download the package via Cowtransfer (link:[https://tbtools.cowtransfer.com/s/d69cdec128f64e](https://tbtools.cowtransfer.com/s/d69cdec128f64e)).
 #### SuperDecode can also be accessed from the plugin store of TBtools.
-We also provide a web-based version of SuperDecode, which can be accessed via the link:[http://www.crispr-ge.com/superdecode/]
+We also provide a web-based version of SuperDecode, which can be accessed via the link: http://www.crispr-ge.com/superdecode/
 
 ## How to use SuperDecode to analyze mutations?
 SuperDecode provides three modules: DSDecodeMS, HiDecode, and LaDecode. Each module has distinct advantages.  
