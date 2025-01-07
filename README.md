@@ -8,12 +8,12 @@ After you download the binary file, please unzip it to your local disk (attentio
 Click the "SuperDecode.exe" in the directory to start the program.  
 For convenience, you can send a shortcut of "SuperDecode.exe" to Desktop.  
 ### macOS
-The macOS version can be downloaded from the the latest release ([SuperDecode_macOS.zip](https://github.com/xiexr/SuperDecode/releases/download/macOs.v1.0/SuperDecode_macOS.zip)). .  
+The macOS version can be downloaded from the the latest release ([SuperDecode_mac.tar.gz](https://github.com/xiexr/SuperDecode/releases/download/macOs.v1.0/SuperDecode_mac.tar.gz)). .  
 Unzip the binary file to your local disk. Please check that no space contained in the directory path.  
 To use it, click the "SuperDecode.exe" in the directory to start the program.
 ### Linux
 We provide the Linux version (command line) for you.  
-You can download the Linux excutable files from the latest release ([superdecode_linux.tar.gz](https://github.com/xiexr/SuperDecode/releases/download/linux.v1.0/superdecode_linux.tar.gz)).   
+You can download the Linux excutable files from the latest release ([SuperDecode_linux.tar.gz](https://github.com/xiexr/SuperDecode/releases/download/linux.v1.0/SuperDecode_linux.tar.gz)).   
 Unzip the tar.gz file to your local disk (using command: tar -zxf superdecode_linux.tar.gz). Ensure no space in the path.  
 An example script is provided in the directory for you to run the test example data of each tool.
 #### Alternatively, you can download the package via Cowtransfer (link:[https://tbtools.cowtransfer.com/s/d69cdec128f64e](https://tbtools.cowtransfer.com/s/d69cdec128f64e)).
