@@ -10,7 +10,7 @@ For convenience, you can send a shortcut of "SuperDecode.exe" to Desktop.
 ### macOS
 The macOS version can be downloaded from the the latest release ([SuperDecode_mac.tar.gz](https://github.com/xiexr/SuperDecode/releases/download/linux.v1.0/SuperDecode_linux.tar.gz)). .  
 Unzip the binary file to your local disk. Please check that no space or Chinese characters contained in the directory path.  
-To use it, click the "SuperDecode.exe" in the directory to start the program.
+To use it, click the "SuperDecode" in the directory to start the program.
 ### Linux
 We provide the Linux version (command line) for you.  
 You can download the Linux excutable files from the latest release ([SuperDecode_linux.tar.gz](https://github.com/xiexr/SuperDecode/releases/download/linux.v1.0/SuperDecode_linux.tar.gz)).   
