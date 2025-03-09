@@ -8,7 +8,7 @@ After you download the binary file, please unzip it to your local disk (attentio
 Click the "SuperDecode.exe" in the directory to start the program.  
 For convenience, you can send a shortcut of "SuperDecode.exe" to Desktop.  
 ### macOS
-The macOS version can be downloaded from the the latest release ([SuperDecode_macOS.zip](https://github.com/xiexr/SuperDecode/releases/download/macOs.v1.0/SuperDecode_macOS.zip)). .  
+The macOS version can be downloaded from the the latest release ([SuperDecode_macOS.tar.gz](https://github.com/xiexr/SuperDecode/releases/download/macOs.v1.0/SuperDecode_macOS.tar.gz)). .  
 Unzip the binary file to your local disk. Please check that no space or Chinese characters contained in the directory path.  
 To use it, click the "SuperDecode" in the directory to start the program.
 ### Linux
