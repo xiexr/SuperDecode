@@ -3,7 +3,7 @@ An integrated toolkit for mutation analysis. SuperDecode provides three useful m
 ## How to obtain the soft package?
 We provide soft versions for Windows, macOS, and Linux. You can download the package based on your computer system.
 ### Windows
-You can download the win package from the latest release ([SuperDecode_win.zip](https://github.com/xiexr/SuperDecode/releases/download/win.v1.0/SuperDecode_win.zip)). .  
+You can download the win package from the latest release ([SuperDecode_win_v1.3.zip](https://github.com/xiexr/SuperDecode/releases/download/win.v1.0/SuperDecode_win_v1.3.zip)). .  
 After you download the binary file, please unzip it to your local disk (attention: ensure that no space or Chinese characters contained in the directory path).   
 Click the "SuperDecode.exe" in the directory to start the program.  
 For convenience, you can send a shortcut of "SuperDecode.exe" to Desktop.  
